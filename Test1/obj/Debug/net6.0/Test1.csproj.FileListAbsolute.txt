@@ -1,0 +1,15 @@
+D:\QA\гик\c#\Example2\Test1\bin\Debug\net6.0\Test1.exe
+D:\QA\гик\c#\Example2\Test1\bin\Debug\net6.0\Test1.deps.json
+D:\QA\гик\c#\Example2\Test1\bin\Debug\net6.0\Test1.runtimeconfig.json
+D:\QA\гик\c#\Example2\Test1\bin\Debug\net6.0\Test1.dll
+D:\QA\гик\c#\Example2\Test1\bin\Debug\net6.0\Test1.pdb
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\Test1.csproj.AssemblyReference.cache
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\Test1.AssemblyInfoInputs.cache
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\Test1.AssemblyInfo.cs
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\Test1.csproj.CoreCompileInputs.cache
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\Test1.dll
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\refint\Test1.dll
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\Test1.pdb
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\Test1.genruntimeconfig.cache
+D:\QA\гик\c#\Example2\Test1\obj\Debug\net6.0\ref\Test1.dll
